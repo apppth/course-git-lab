@@ -1,8 +1,8 @@
 # course-git-lab
 
-Учебный репозиторий для практики Git Flow.
+Учебный репозиторий TaskFlow для практики Git Flow.
 
-  `main` — релизная линия
-  `develop` — интеграция следующего релиза
-  работа в `feature/<login>-...`, а PR в `develop`
-  и личные файлы лежат в `students/<login>/`
+- `main` — релизная линия
+- `develop` — интеграция следующего релиза
+- работа студентов: `feature/<apppth>-итд` → а пул реквест в `develop`
+- личные файлы лежат в `students/<apppth>/`
