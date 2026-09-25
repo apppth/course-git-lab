@@ -1,2 +1,1 @@
-Hello, TaskFlow!
-Это песочница для учебного hotfix.
+Это учебный hotfix
